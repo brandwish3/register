@@ -44,11 +44,11 @@
     ],
     "coverageThreshold": {
       "global": {
-        "lines": 80
+        "lines": 90
       }
     }
   },
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=20.0.0"
   }
 }
